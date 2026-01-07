@@ -1,0 +1,136 @@
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] erp_paro_edad_ramas_islas_mensual: 109848 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] erp_paro_edad_estudios_islas_mensual: 850752 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] erp_poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] erp_tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] erp_tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 109848 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 850752 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 109848 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 850752 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 110400 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 854784 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 110400 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 854784 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 110400 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 854784 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 110952 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 858816 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.
+
+[DESCARGA] E59021A_000006 → ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv
+[OK] paro_edad_ramas_islas_mensual: 110952 filas
+
+[DESCARGA] E59021A_000014 → ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv
+[OK] paro_edad_estudios_islas_mensual: 858816 filas
+
+[DESCARGA] C00069A_000001 → ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv
+[OK] poblacion_activa_situacion_sexo_edad_trimestral: 300672 filas
+
+[DESCARGA] C00069A_000011 → ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv
+[OK] tasas_demanda_salarizacion_temporalidad_trimestral: 66816 filas
+
+[DESCARGA] C00051A_000007 → ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv
+[OK] tasa_insercion_academica_anual: 105300 filas
+
+[FIN] Descarga y carga en bd_ERP completadas.

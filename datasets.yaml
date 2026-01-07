@@ -1,0 +1,31 @@
+# datasets.yaml
+datasets:
+  - id: E59021A_000006
+    title: "Paro registrado según grupos de edad y ramas de actividad. Islas de Canarias por meses"
+    url: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/E59021A_000006/~latest.csv"
+    filename: "ISTAC_E59021A_000006_paro_edad_ramas_islas_mensual.csv"
+    table: "paro_edad_ramas_islas_mensual"
+
+  - id: E59021A_000014
+    title: "Paro registrado según grupos de edad y niveles de estudios. Islas de Canarias por meses"
+    url: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/E59021A_000014/~latest.csv"
+    filename: "ISTAC_E59021A_000014_paro_edad_estudios_islas_mensual.csv"
+    table: "paro_edad_estudios_islas_mensual"
+
+  - id: C00069A_000001
+    title: "Población activa registrada por situación laboral, sexo y grupos de edad. Islas y municipios de Canarias por trimestres"
+    url: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00069A_000001/~latest.csv"
+    filename: "ISTAC_C00069A_000001_poblacion_activa_situacion_sexo_edad_islas_municipios_trimestral.csv"
+    table: "poblacion_activa_situacion_sexo_edad_trimestral"
+
+  - id: C00069A_000011
+    title: "Tasa de demandantes registrados y tasas de salarización y temporalidad registradas según sexos. Islas y municipios de Canarias por trimestres"
+    url: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00069A_000011/~latest.csv"
+    filename: "ISTAC_C00069A_000011_tasas_demanda_salarizacion_temporalidad_sexo_islas_municipios_trimestral.csv"
+    table: "tasas_demanda_salarizacion_temporalidad_trimestral"
+
+  - id: C00051A_000007
+    title: "Tasa de inserción laboral... universidades públicas. Canarias por años"
+    url: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/C00051A_000007/~latest.csv"
+    filename: "ISTAC_C00051A_000007_tasa_insercion_nivel_rama_sexo_tiempo_universidad_anual.csv"
+    table: "tasa_insercion_academica_anual"
